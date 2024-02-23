@@ -28,16 +28,16 @@ The predictive power of this project is driven by the K-Nearest Neighbors (KNN) 
    cd Breast-Cancer-Prediction-using-KNN
 
 2. **Install the required dependencies:**
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. Download the dataset from Kaggle and place it in the project root directory as datasets_Breast Cancer.csv
   
 4. **Open the Jupyter Notebook file:**
-```bash
-jupyter notebook "KNN with breast cancer data.ipynb" 
-```
+   ```bash
+   jupyter notebook "KNN with breast cancer data.ipynb" 
+   ```
 
 
 ## Acknowledgments
